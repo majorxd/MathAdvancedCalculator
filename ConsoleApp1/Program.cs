@@ -33,6 +33,7 @@ namespace ConsoleApp2
 
             double bNovo = Double.Parse(b);
             double aNovo = Double.Parse(a);
+
             // Realizando a soma para dar o resultado.
             SomaNova = aNovo + bNovo;
             Console.WriteLine("Resultado da soma é :" + SomaNova);
