@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // Código para fazer o fatorial de um número.
             // Declaração de variável.
             int Number;
             int Fatorial;
