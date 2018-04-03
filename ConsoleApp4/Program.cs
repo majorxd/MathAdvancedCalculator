@@ -27,6 +27,7 @@ namespace ConsoleApp1
                 // Se módulo for igual a 0 (zero) o número digitado é par.
                 Console.WriteLine("O número digitado é impar");
             }
+            // Console.ReadKey é utilizado para esperar um enter finalizar o console.
             Console.ReadKey();
             // Fim do código.
         }

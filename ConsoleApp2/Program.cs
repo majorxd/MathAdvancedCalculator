@@ -10,14 +10,17 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // Declaração de variável.
             int Number;
+            int Fatorial;
 
+            // WriteLine é utilizado para escrever o texto no console.
             Console.WriteLine("Digite o número que será fatorial:");
             Number = int.Parse(Console.ReadLine());
 
-            int Fatorial;
-
             Fatorial = Number;
+            
+            // Comando de repetição.
             for (int i = Number - 1; i > 1; i--)
             {
                 Fatorial *= i;

@@ -11,14 +11,14 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            //Código para soma de dois números.
+            // Código para soma de dois números.
 
-            //Definindo variáveis.
+            // Definindo variáveis.
             string a;
             string b;
             double SomaNova;
 
-            // WriteLine é utilizado para escrito do texto no console.
+            // WriteLine é utilizado para escrever o texto no console.
             Console.WriteLine("Digite o primeiro valor");
             // ReadLine é utilizado para ler a variável digitada pelo usuário.
             a = Console.ReadLine();
@@ -29,7 +29,7 @@ namespace ConsoleApp2
 
             Double.Parse(b);
             Double.Parse(a);
-            
+
 
             double bNovo = Double.Parse(b);
             double aNovo = Double.Parse(a);
@@ -37,7 +37,7 @@ namespace ConsoleApp2
             SomaNova = aNovo + bNovo;
             Console.WriteLine("Resultado da soma é :" + SomaNova);
             Console.ReadLine();
-            //Fim do código.
+            // Fim do código.
         }
     }
 }

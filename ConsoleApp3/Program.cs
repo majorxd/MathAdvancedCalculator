@@ -42,6 +42,7 @@ namespace Equacao
                 Console.WriteLine("o resultado da equação " + a + "x²+" + b + "x+" + c + "=0 é:" + "\n" + "x¹:" + RaizUm + "\n" + "x²:" + RaizDois + ".");
                 Console.WriteLine("Digite Qualquer Tecla para sair!");
             }
+            // Console.ReadKey é utilizado para esperar um enter finalizar o console.
             Console.ReadKey();
             // Fim do código.
 
