@@ -28,6 +28,7 @@ namespace Equação_1_Grau
             Console.WriteLine("O valor de x na equação é: " + x);
             // Console.ReadKey é utilizado para esperar um enter finalizar o console.
             Console.ReadKey();
+
             // Fim do código.
         }
     }
