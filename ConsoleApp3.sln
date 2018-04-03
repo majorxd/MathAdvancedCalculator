@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPorcento", "XPorcento\XPor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equação1Grau", "Equação1Grau\Equação1Grau.csproj", "{4E8B2FA2-211D-4B08-AAF6-A75E1DB89222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci1\Fibonacci.csproj", "{C6D8891C-D350-4598-92A9-5C01D01E71FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,7 @@ Global
 		{906DE3CA-4C54-4396-A8E8-AE10F2C0E10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{906DE3CA-4C54-4396-A8E8-AE10F2C0E10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{906DE3CA-4C54-4396-A8E8-AE10F2C0E10E}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{6FB1BCFB-C6DB-461A-BEAE-912B5E933BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6FB1BCFB-C6DB-461A-BEAE-912B5E933BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FB1BCFB-C6DB-461A-BEAE-912B5E933BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +54,12 @@ Global
 		{4E8B2FA2-211D-4B08-AAF6-A75E1DB89222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E8B2FA2-211D-4B08-AAF6-A75E1DB89222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E8B2FA2-211D-4B08-AAF6-A75E1DB89222}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{C6D8891C-D350-4598-92A9-5C01D01E71FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D8891C-D350-4598-92A9-5C01D01E71FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D8891C-D350-4598-92A9-5C01D01E71FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D8891C-D350-4598-92A9-5C01D01E71FD}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 028e31de74dd4446cf701f098e025b17200ebdba
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
