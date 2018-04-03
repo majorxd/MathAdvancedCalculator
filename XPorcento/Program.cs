@@ -39,6 +39,7 @@ namespace ConsoleApp2
             Porcentagem = aNovo * c;
             Console.WriteLine("Resultado é :" + Porcentagem);
             Console.ReadLine();
+
             // Fim do código.
         }
     }
