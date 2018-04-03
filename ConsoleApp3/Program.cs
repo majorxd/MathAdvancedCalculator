@@ -44,6 +44,7 @@ namespace Equacao
             }
             // Console.ReadKey é utilizado para esperar um enter finalizar o console.
             Console.ReadKey();
+
             // Fim do código.
 
 
