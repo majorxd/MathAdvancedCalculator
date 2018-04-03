@@ -24,7 +24,7 @@ namespace ConsoleApp2
             // Comando de repetição.
             for (int i = Number - 1; i > 1; i--)
             {
-                Fatorial *= i;
+                Fatorial *= i ;
             }
 
             Console.WriteLine("Valor de " + Number + " fatorial é: " + Fatorial);
@@ -34,4 +34,3 @@ namespace ConsoleApp2
         }
     }
 }
-
