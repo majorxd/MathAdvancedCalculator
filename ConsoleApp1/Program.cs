@@ -4,32 +4,40 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
 
+namespace ConsoleApp2
+{
     class Program
     {
         static void Main(string[] args)
         {
-            //Código para soma de dois números
+            //Código para soma de dois números.
 
-            //Definindo variáveis
+            //Definindo variáveis.
             string a;
-            double Porcento;
+            string b;
+            double SomaNova;
 
-            // WriteLine é utilizado para escrito do texto no console
-            Console.WriteLine("Digite o valor que deseja calcular: ");
-            // ReadLine é utilizado para ler a variável digitada pelo usuário
+            // WriteLine é utilizado para escrito do texto no console.
+            Console.WriteLine("Digite o primeiro valor");
+            // ReadLine é utilizado para ler a variável digitada pelo usuário.
             a = Console.ReadLine();
 
+            Console.WriteLine("Digite o segundo valor");
+            b = Console.ReadLine();
+
+
+            Double.Parse(b);
             Double.Parse(a);
+            
 
+            double bNovo = Double.Parse(b);
             double aNovo = Double.Parse(a);
-
-            Porcento = aNovo * 0.1;
-            Console.WriteLine("Resultado é :" + Porcento);
+            // Realizando a soma para dar o resultado.
+            SomaNova = aNovo + bNovo;
+            Console.WriteLine("Resultado da soma é :" + SomaNova);
             Console.ReadLine();
-            //Fim
+            //Fim do código.
         }
     }
 }
