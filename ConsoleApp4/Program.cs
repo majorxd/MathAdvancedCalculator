@@ -10,7 +10,7 @@ namespace ImparPar
     {
         static void Main(string[] args)
         {
-            // Código para dizer se o número digitado ímpar ou par.
+            // Código para dizer se o número digitado é ímpar ou par.
 
             // WriteLine é utilizado para escrever o  texto no console.
             Console.WriteLine("Digite o número que deseja:");
