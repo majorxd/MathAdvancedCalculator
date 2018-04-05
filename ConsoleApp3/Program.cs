@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Equacao
 {
-    class EquacaoSegundoGrau
+    class Equacao2Grau
     {
         public static void Main()
         {
